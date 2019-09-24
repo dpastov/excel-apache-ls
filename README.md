@@ -1,2 +1,2 @@
 # excel-apache-ls
-Create Excel file without MS Excel installed on PC
+Create Excel file using LotusScript without MS Excel (OLE) installed on PC
