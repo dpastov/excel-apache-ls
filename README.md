@@ -1,10 +1,11 @@
 # Description
 Create an Excel file using LotusScript without MS Excel OLE installed on PC.
 Solution is based on Java Apache POI 4.1 https://poi.apache.org/ (with LS2J example).
-There are 2 libraries and 1 agent in demo database:
-Apache.POI-4.1 - contains Apache POI jar. They can be found on poi.apache.org so you are free to upgrade it if newer version appears.
-Apache.Excel - provide a Class we can re-use in LotusScript using LS2J approach. So far it contains only basic methods (but for simple reports it's enough).
-Demo - agent that shows how to use Apache.Excel library via LS2J.
+
+## There are 2 libraries and 1 agent in demo database:
+1. Apache.POI-4.1 - contains Apache POI jar. They can be found on poi.apache.org so you are free to upgrade it if newer version appears.
+2. Apache.Excel - provide a Class we can re-use in LotusScript using LS2J approach. So far it contains only basic methods (but for simple reports it's enough).
+3. Demo - agent that shows how to use Apache.Excel library via LS2J.
 
 # Example of agent
 ```
