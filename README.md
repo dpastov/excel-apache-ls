@@ -3,6 +3,7 @@ Create Excel file using LotusScript without MS Excel (OLE) installed on PC
 
 #Example of agent
 
+```
 Option Public
 Option Declare
 
@@ -64,3 +65,4 @@ Private Function temp() As String
 	
 	temp = tmpdir
 End Function
+```
