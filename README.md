@@ -52,10 +52,10 @@ Sub Initialize
 	
 	MsgBox filepath
 End Sub
+
 Sub Terminate
 	
 End Sub
-
 
 Private Function temp() As String
 	Dim tmpDir As String
